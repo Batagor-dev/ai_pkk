@@ -1,0 +1,85 @@
+{
+  "identitas_sekolah": {
+    "nama_sekolah": "SMK BPPI Baleendah",
+    "jenis_sekolah": "SMK",
+    "status_sekolah": "Swasta",
+    "alamat_lengkap": "Jl. Adipati Agung No.23, Baleendah",
+    "kota_kabupaten": "Kabupaten Bandung",
+    "provinsi": "Jawa Barat"
+  },
+  "jurusan": [
+    {
+      "nama_jurusan": "Pengembangan Perangkat Lunak dan Game",
+      "kategori_jurusan": "SMK / Teknologi Informasi",
+      "deskripsi_singkat": "Jurusan yang fokus pada pengembangan aplikasi, website, dan dasar pembuatan game dengan pendekatan praktik.",
+      "cocok_untuk_minat": ["teknologi", "logika", "problem solving"],
+      "skill_utama": ["pemrograman", "logika algoritma", "pengembangan web", "dasar database"]
+    },
+    {
+      "nama_jurusan": "Teknik Jaringan Komputer dan Telekomunikasi",
+      "kategori_jurusan": "SMK / Teknik",
+      "deskripsi_singkat": "Jurusan yang mempelajari jaringan komputer, perangkat keras, dan dasar pengelolaan sistem jaringan.",
+      "cocok_untuk_minat": ["teknologi", "teknik", "analisis sistem"],
+      "skill_utama": ["jaringan komputer", "troubleshooting", "instalasi perangkat", "dasar sistem jaringan"]
+    },
+    {
+      "nama_jurusan": "Akuntansi dan Keuangan Lembaga",
+      "kategori_jurusan": "SMK / Bisnis dan Manajemen",
+      "deskripsi_singkat": "Jurusan yang berfokus pada pencatatan keuangan, administrasi, dan pengelolaan laporan keuangan dasar.",
+      "cocok_untuk_minat": ["bisnis", "administrasi", "ketelitian"],
+      "skill_utama": ["akuntansi dasar", "administrasi keuangan", "pengolahan data keuangan"]
+    }
+  ],
+  "kontak_sekolah": {
+    "website_resmi": "https://www.smk.bppi.sch.id",
+    "telepon_whatsapp": null,
+    "email": null
+  },
+  "keunggulan_sekolah": {
+    "fasilitas_unggulan": [
+      "Laboratorium komputer",
+      "Ruang praktik jurusan",
+      "Akses internet sekolah"
+    ],
+    "program_unggulan": [
+      "Pembelajaran berbasis praktik",
+      "Proyek tugas akhir siswa",
+      "Magang industri (Prakerin)",
+      "Kelas industri Axioo"
+    ],
+    "kerja_sama": [
+      "Industri terkait bidang keahlian",
+      "Dunia usaha dan dunia industri (DUDI)",
+      "Axioo Indonesia"
+    ]
+  },
+  "biaya_pendidikan": {
+    "spp_bulanan": 250000,
+    "pendaftaran": {
+      "kelas_reguler": 5000000,
+      "kelas_industri_axioo": 10000000
+    },
+    "catatan": "Biaya dapat berubah sesuai kebijakan sekolah."
+  },
+  "output_lulusan": {
+    "bekerja_di_bidang": [
+      "Teknologi informasi",
+      "Administrasi",
+      "Teknisi pemula"
+    ],
+    "melanjutkan_ke": [
+      "Perguruan tinggi",
+      "Pelatihan atau sertifikasi lanjutan"
+    ],
+    "contoh_posisi_kerja": [
+      "Junior programmer",
+      "Admin IT",
+      "Teknisi jaringan pemula",
+      "Staf administrasi"
+    ]
+  },
+  "lingkungan_belajar": {
+    "fokus_pembelajaran": ["praktik", "keterampilan kerja"],
+    "budaya_sekolah": ["disiplin", "religius", "adaptif"]
+  }
+}

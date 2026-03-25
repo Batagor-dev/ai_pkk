@@ -13,73 +13,162 @@
       "kategori_jurusan": "SMK / Teknologi Informasi",
       "deskripsi_singkat": "Jurusan yang fokus pada pengembangan aplikasi, website, dan dasar pembuatan game dengan pendekatan praktik.",
       "cocok_untuk_minat": ["teknologi", "logika", "problem solving"],
-      "skill_utama": ["pemrograman", "logika algoritma", "pengembangan web", "dasar database"]
+      "skill_utama": [
+        "pemrograman",
+        "logika algoritma",
+        "pengembangan web",
+        "dasar database"
+      ]
     },
     {
       "nama_jurusan": "Teknik Jaringan Komputer dan Telekomunikasi",
       "kategori_jurusan": "SMK / Teknik",
       "deskripsi_singkat": "Jurusan yang mempelajari jaringan komputer, perangkat keras, dan dasar pengelolaan sistem jaringan.",
       "cocok_untuk_minat": ["teknologi", "teknik", "analisis sistem"],
-      "skill_utama": ["jaringan komputer", "troubleshooting", "instalasi perangkat", "dasar sistem jaringan"]
+      "skill_utama": [
+        "jaringan komputer",
+        "troubleshooting",
+        "instalasi perangkat",
+        "dasar sistem jaringan"
+      ]
     },
     {
       "nama_jurusan": "Akuntansi dan Keuangan Lembaga",
       "kategori_jurusan": "SMK / Bisnis dan Manajemen",
       "deskripsi_singkat": "Jurusan yang berfokus pada pencatatan keuangan, administrasi, dan pengelolaan laporan keuangan dasar.",
       "cocok_untuk_minat": ["bisnis", "administrasi", "ketelitian"],
-      "skill_utama": ["akuntansi dasar", "administrasi keuangan", "pengolahan data keuangan"]
+      "skill_utama": [
+        "akuntansi dasar",
+        "administrasi keuangan",
+        "pengolahan data keuangan"
+      ]
     }
   ],
-  "kontak_sekolah": {
-    "website_resmi": "https://www.smk.bppi.sch.id",
-    "telepon_whatsapp": null,
-    "email": null
-  },
-  "keunggulan_sekolah": {
-    "fasilitas_unggulan": [
-      "Laboratorium komputer",
-      "Ruang praktik jurusan",
-      "Akses internet sekolah"
-    ],
-    "program_unggulan": [
-      "Pembelajaran berbasis praktik",
-      "Proyek tugas akhir siswa",
-      "Magang industri (Prakerin)",
-      "Kelas industri Axioo"
-    ],
-    "kerja_sama": [
-      "Industri terkait bidang keahlian",
-      "Dunia usaha dan dunia industri (DUDI)",
-      "Axioo Indonesia"
-    ]
-  },
-  "biaya_pendidikan": {
-    "spp_bulanan": 250000,
-    "pendaftaran": {
-      "kelas_reguler": 5000000,
-      "kelas_industri_axioo": 10000000
+  "staff_sekolah": [
+    {
+      "nama": "Acep Angga Nugraha, M.Pd",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["Sejarah"]
     },
-    "catatan": "Biaya dapat berubah sesuai kebijakan sekolah."
-  },
-  "output_lulusan": {
-    "bekerja_di_bidang": [
-      "Teknologi informasi",
-      "Administrasi",
-      "Teknisi pemula"
-    ],
-    "melanjutkan_ke": [
-      "Perguruan tinggi",
-      "Pelatihan atau sertifikasi lanjutan"
-    ],
-    "contoh_posisi_kerja": [
-      "Junior programmer",
-      "Admin IT",
-      "Teknisi jaringan pemula",
-      "Staf administrasi"
-    ]
-  },
-  "lingkungan_belajar": {
-    "fokus_pembelajaran": ["praktik", "keterampilan kerja"],
-    "budaya_sekolah": ["disiplin", "religius", "adaptif"]
-  }
+    {
+      "nama": "Anggi Setiadi, S.Pd",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["Bahasa Indonesia"]
+    },
+    {
+      "nama": "Annisa Ambar Susanti, S.Pd",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["Matematika"]
+    },
+    {
+      "nama": "ASEP DIMYATI YUSUP, ST",
+      "jabatan": ["Wakasek Kurikulum", "Kaprodi", "PIC Axioo"],
+      "mata_pelajaran": ["Produktif (Pemrograman Web)"]
+    },
+    {
+      "nama": "Asep Sudrajat, S.Ag",
+      "jabatan": ["Wakasek Hubin"],
+      "mata_pelajaran": ["PABP"]
+    },
+    {
+      "nama": "Dede Sumarna, S.Pd, M.M",
+      "jabatan": ["Kepala Sekolah SMK BPPI Baleendah"],
+      "mata_pelajaran": []
+    },
+    {
+      "nama": "Dinny Wardiani, S.Pd",
+      "jabatan": ["Guru Mata Pelajaran", "Kaprodi AKL"],
+      "mata_pelajaran": ["Produktif AKL"]
+    },
+    {
+      "nama": "DRS. ABIN SAEPUDIN",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["PKN"]
+    },
+    {
+      "nama": "Elsa Antika, S.Kom",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["ASJ"]
+    },
+    {
+      "nama": "Gilang Muhamad Noer, S.Pd",
+      "jabatan": ["Guru Mata Pelajaran", "Kaprodi PPLG"],
+      "mata_pelajaran": ["Pemrograman Web", "Multimedia"]
+    },
+    {
+      "nama": "GURUH PANJI ALAM, S.KOM",
+      "jabatan": ["GTT"],
+      "mata_pelajaran": ["PWPB", "DB", "PBO"]
+    },
+    {
+      "nama": "ISMA PURNAMASARI, S.PD",
+      "jabatan": ["Pembina Ekskul"],
+      "mata_pelajaran": ["Penjas"]
+    },
+    {
+      "nama": "IWAN SETIAWAN, S.SOS.I, S.KOM",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["Sistem Komputer"]
+    },
+    {
+      "nama": "Kisan Ramadhan, S.Kom",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["PKK", "KIK"]
+    },
+    {
+      "nama": "MEGA MERLIANA, S.DS, S.KOM",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["Desain Grafis"]
+    },
+    {
+      "nama": "Muchamad Luqman, S.T",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["KIK"]
+    },
+    {
+      "nama": "NENI ROSMAYANI, S.S",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["Bahasa Jepang"]
+    },
+    {
+      "nama": "NURWITA, S.PD",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["Bahasa Inggris"]
+    },
+    {
+      "nama": "Penny Puspitasari, S.Pd",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["PABP"]
+    },
+    {
+      "nama": "PRAVITA DEVI AMALLIA, S.PD",
+      "jabatan": ["Guru Mata Pelajaran", "Wakasek Sarana dan Prasarana"],
+      "mata_pelajaran": ["Bahasa Inggris"]
+    },
+    {
+      "nama": "RINA ERWINA, ST",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["PBO", "Produktif PPLG"]
+    },
+    {
+      "nama": "Salsabila Fakhrul Qur'ani, S.Akun",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["Administrasi Pajak"]
+    },
+    {
+      "nama": "Talitha Sahda Laili, S.Pd",
+      "jabatan": ["Guru Mata Pelajaran"],
+      "mata_pelajaran": ["Bahasa Indonesia"]
+    },
+    {
+      "nama": "WAHYUDI, S.PD",
+      "jabatan": ["Guru Mata Pelajaran", "Wakasek Kesiswaan"],
+      "mata_pelajaran": ["Matematika"]
+    },
+    {
+      "nama": "YOGIE PRANDY WARGINA, S.TR.KOM",
+      "jabatan": ["Guru Mata Pelajaran", "Kaprodi TJKT"],
+      "mata_pelajaran": ["Pemrograman"]
+    }
+  ]
 }
